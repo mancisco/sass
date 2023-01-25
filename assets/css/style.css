@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap");
+.container-fluid {
+  margin: 15px;
+}
+.container-fluid h5 {
+  color: #cf649a;
+  font-family: "Dancing Script", cursive;
+  font-size: x-large;
+}
+.container-fluid .card {
+  background-color: #000000;
+  align-items: center;
+  padding-top: 15px;
+}
+.container-fluid .btn {
+  background-color: #cf649a;
+  font-family: "Dancing Script", cursive;
+  font-size: x-large;
+  color: #ffffff;
+}
+.container-fluid .card-text {
+  color: #ffffff;
+  font-family: "Dancing Script", cursive;
+  font-size: x-large;
+}/*# sourceMappingURL=style.css.map */
